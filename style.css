@@ -1,19 +1,51 @@
+h1{
+	font-family: "Bungee Tint";
+	font-size: 100px;
+
+	text-align: center;
+
+ 	padding-top: 50px;
+	padding-left: 300px;
+	padding-right: 400px;
+
+}
+
+.location{
+	max-width: 200ch;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-left: 50px;
+	font-size: 23px;
+	color: brown;
+	font-style: italic;
+	font-weight: 500;
+
+}
+
+h2{
+	padding-top: 20px;
+	padding-left: 50px;
+	color:dodgerblue;
+	font-size:  30px;
+}
+
+
 body{
 	font-family: "EB Garamond", serif;
 	font: size 24px;
-	padding: 24px;
+
+	background-color: khaki;
 }
-
-h1{
-	font-size: 100px;
-}
-
-
-h2{
-	color:dodgerblue;
-	font: size 75px;
-}
-
 p{
-	max-width: 65ch;
+	color: white;
+	max-width: 70ch;
+
+	margin-top: 40px;
+	margin-left: 440px;
+	margin-right: 100px;
+}
+
+.page{background-color: darkblue;
+      padding-top: 1px;
+
 }
