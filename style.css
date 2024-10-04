@@ -1,51 +1,92 @@
-h1{
-	font-family: "Bungee Tint";
-	font-size: 100px;
+header{
+	max-width: 60ch;
+}
 
-	text-align: center;
+h1{
+	font-size: 110px;
+
+	text-align: left;
 
  	padding-top: 50px;
-	padding-left: 300px;
-	padding-right: 400px;
+	padding-left: 50px;
+	
+
 
 }
 
-.location{
-	max-width: 200ch;
-	padding-top: 20px;
-	padding-bottom: 20px;
-	margin-left: 50px;
-	font-size: 23px;
-	color: brown;
-	font-style: italic;
-	font-weight: 500;
-
+.title1{
+	font-family: "silkscreen";
 }
+
+.title2{
+	font-family: "Pixelify Sans";
+}
+
+.title3{
+	font-family: "Tiny5";
+}
+
+.line{
+    width: auto;
+    border-bottom: 5px solid #000000;
+	padding-left: 50px;
+   }
+
 
 h2{
-	padding-top: 20px;
+	font-family: "roboto";
+	font-weight: 600;
+	padding-top: 10px;
 	padding-left: 50px;
-	color:dodgerblue;
-	font-size:  30px;
+	padding-bottom: 10px;
+	font-size:  20px;
 }
 
+h3{
+	font-size: "roboto";
+	font-weight: bold;
+	font-size: 30px;
+	padding-left: 50px;
+	padding-top: 60px;
+	max-width: 20ch;
+
+}
+
+.quote p{
+	color: red;
+	font-style: italic;
+	font-family: "roboto";
+	font-weight: 700;
+	font-size: 15px;
+	padding-left: 560px;
+	padding-top: 30px;
+	max-width: 110ch;
+	padding-bottom: 30px;
+}
+
+.inline{
+	color: red;
+	font-weight: 700;
+}
 
 body{
-	font-family: "EB Garamond", serif;
-	font: size 24px;
+	
 
 	background-color: khaki;
+
 }
 p{
-	color: white;
-	max-width: 70ch;
-
-	margin-top: 40px;
-	margin-left: 440px;
-	margin-right: 100px;
+    max-width: 96ch;
+	padding-left: 500px;
+	font-size: 18px;
+	padding-top: 20px;
 }
 
-.page{background-color: darkblue;
-      padding-top: 1px;
-
+footer{
+	padding-bottom: 50px;
 }
+
+section{
+	max-width: 100ch;
+}
+
